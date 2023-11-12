@@ -1,5 +1,8 @@
 The tic tac toe game developed by JAWAD using REACt 
-![image](https://github.com/Mjawad152/tick-tack-toe-game/assets/145112640/2aa596e9-1728-4c7a-bb8b-3f088e382659)
+![Screenshot (41)](https://github.com/Mjawad152/tick-tack-toe-game/assets/145112640/fe05b5fb-1b27-4466-8071-6d50a10fedaa)
+![Screenshot (42)](https://github.com/Mjawad152/tick-tack-toe-game/assets/145112640/34247eb2-58d8-4fca-9ceb-c1b841072e45)
+![Screenshot (43)](https://github.com/Mjawad152/tick-tack-toe-game/assets/145112640/70a4c6d0-7be4-40b3-9168-8e5ca5a8c035)
+
 
 
 
